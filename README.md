@@ -14,7 +14,7 @@ Ce projet exploite des données de vente mensuelles provenant de fichiers CSV po
 - La consolidation des ventes sur plusieurs mois.
 - Le nettoyage des données pour éliminer les valeurs manquantes.
 - Le calcul du chiffre d'affaires mensuel afin de déterminer le mois le plus performant.
-- L'identification des tendances de ventes par produit et région (à intégrer dans des versions futures).
+- L'identification des tendances de ventes par produit et région .
 
 ## Données utilisées
 
